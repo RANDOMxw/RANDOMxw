@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RANDOMxw
-- 👀 I’m interested in here nothing 
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in nothing here
+- 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on my personal projects and in Hackathons
 - 📫 How to reach me divyanshsingh5007@gmail.com
 
