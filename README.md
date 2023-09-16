@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RANDOMxw
-- 👀 I’m interested in nothing here
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on my personal projects and in Hackathons
-- 📫 How to reach me divyanshsingh5007@gmail.com
+- 👀 I’m interested in nothing
+- 🌱 I’m currently minding my own business
+- 💞️ I’m looking for you to GET OUT OF HERE
+- 📫 Never try to Reach Out to me.
 
 <!---
 RANDOMxw/RANDOMxw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
